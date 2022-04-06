@@ -1,0 +1,10 @@
+{
+  "/about": "pages/about.html",
+  "/api/hello": "pages/api/hello.js",
+  "/blog": "pages/blog.html",
+  "/contact": "pages/contact.html",
+  "/": "pages/index.js",
+  "/posts/[slug]": "pages/posts/[slug].js",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
+}
